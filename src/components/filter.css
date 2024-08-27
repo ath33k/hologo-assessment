@@ -1,0 +1,36 @@
+.filterbox{
+    margin-top: 20px;
+    border:1px solid red;
+    padding:10px;
+    border-radius:5px;
+    width:200px;
+    overflow: auto;
+    min-height: 100vh;
+
+
+}
+.filter-section{
+    border: 1px solid pink;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom:10px;
+}
+
+.filter-section h4{
+    cursor: pointer;
+    margin: 0;
+}
+
+.filter-options {
+    display: none;
+    margin-top: 10px;
+}
+
+.filter-options.expanded {
+    display: block;
+}
+
+.filter-options label {
+    display: block;
+    margin-bottom: 5px;
+}
