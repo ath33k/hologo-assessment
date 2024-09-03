@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Carousel />
-      <div>
+       <div className="sub">
         <FilterBox />
       </div>
       
