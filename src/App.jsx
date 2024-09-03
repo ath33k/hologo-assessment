@@ -9,7 +9,10 @@ function App() {
   return (
     <>
       <Carousel />
-      <FilterBox />
+      <div>
+        <FilterBox />
+      </div>
+      
     </>
   );
 }
