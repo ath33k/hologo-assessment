@@ -1,4 +1,6 @@
 # React + Vite
+the following assessment has been compiled to a web application and hosted in vercel in the below link,
+(https://hs3.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
